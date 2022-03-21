@@ -1,3 +1,4 @@
 data
 .DS_Store
 planes-to-research.csv
+.ipynb_checkpoints
